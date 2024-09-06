@@ -28,3 +28,11 @@ section {
 section h2 {
     margin-top: 0;
 }
+
+footer{
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+    margin-top: 40px;
+}
